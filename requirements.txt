@@ -1,2 +1,7 @@
 flask
 gunicorn
+fastapi
+uvicorn
+jinja2
+pydantic
+python-multipart
